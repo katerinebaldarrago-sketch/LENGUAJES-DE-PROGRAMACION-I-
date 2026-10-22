@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Ingrese el numero a y b'
+5
+1
+4
+a,b 
+6
+3
+4
+SUMA
+3
+a+b
+5
+RESTA
+3
+a-b
+8
+PRODUCTO
+3
+a*b
+7
+0
+1
+3
+b=0
+6
+1
+8
+DIVISION
+3
+a/b
+13
+4
+1
+29
+'No se puede dividir entre 0'
+13
+4
+1
+19
+'La suma es: ',SUMA
+4
+1
+21
+'La resta es: ',RESTA
+4
+1
+33
+'La multiplicacion es: ',PRODUCTO
+4
+1
+27
+'La division es: ',DIVISION
+1

@@ -1,0 +1,27 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+44
+ejercicio 3: perimero y area de un pentagono
+4
+1
+23
+'Ingrese base y altura'
+5
+1
+4
+b, h
+6
+1
+1
+A
+7
+(b*h)/2
+4
+1
+9
+'area=',A
+1
